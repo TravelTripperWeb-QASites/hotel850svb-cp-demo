@@ -1,0 +1,396 @@
+@font-face{font-family:'MrsEavesOT-Italic';src:url(assets/fonts/3647E8_0_0.eot);src:url(assets/fonts/3647E8_0_0.eot?#iefix) format("embedded-opentype"),url(assets/fonts/3647E8_0_0.woff2) format("woff2"),url(assets/fonts/3647E8_0_0.woff) format("woff"),url(assets/fonts/3647E8_0_0.ttf) format("truetype"),url(assets/fonts/fonts/3647E8_0_0.svg) format("svg")}
+
+@font-face{font-family:'Conv_Mrs-Eaves-OT-Roman_31443';src:url(assets/fonts/Mrs-Eaves-OT-Roman_31443.eot);src:local(☺),url(assets/fonts/Mrs-Eaves-OT-Roman_31443.woff) format("woff"),url(assets/fonts/Mrs-Eaves-OT-Roman_31443.ttf) format("truetype"),url(assets/fonts/Mrs-Eaves-OT-Roman_31443.svg) format("svg");font-weight:400;font-style:normal}
+
+@font-face{font-family:'MrEavesModOT-Reg';src:url(assets/fonts/3647E8_1_0.eot);src:url(assets/fonts/3647E8_1_0.eot?#iefix) format("embedded-opentype"),url(assets/fonts/3647E8_1_0.woff2) format("woff2"),url(assets/fonts/3647E8_1_0.woff) format("woff"),url(assets/fonts/3647E8_1_0.ttf) format("truetype"),url(assets/fonts/fonts/3647E8_1_0.svg) format("svg")}
+
+@font-face{font-family:'MrsEavesLiningOT';src:url(assets/fonts/3647E5_0_0.eot);src:url(assets/fonts/3647E5_0_0.eot?#iefix) format("embedded-opentype"),url(assets/fonts/3647E5_0_0.woff2) format("woff2"),url(assets/fonts/3647E5_0_0.woff) format("woff"),url(assets/fonts/3647E5_0_0.ttf) format("truetype"),url(assets/fonts/fonts/3647E5_0_0.svg) format("svg")}
+
+body p{color:#000;font-size:20px}
+
+body{font-family:'MrEavesModOT-Reg'!important}
+
+.n_custom_heading{float:left;width:100%}
+
+h1,h2,h3,h4,h5,h6{font-family:'MrsEavesLiningOT'!important;color:#000;font-weight:400}
+
+h1,.h1{font-size:44px}
+
+.n_custom_heading{font-family:'MrsEavesOT-Italic'}
+
+.slider_wrapper .caption .inner .t1,.slider_wrapper .caption .inner .t2,.head_panel .hgroup.large_hgroup_styling h1.title,.head_panel .hgroup p.pretitle,.hoverbox .hoverbox_title h2,.homeh h1{font-family:'MrsEavesLiningOT'}
+
+.n_custom_heading .background_title,.wpcf7 h4,.header nav.primary_nav ul li a{font-family:"MrsEavesLiningOT";letter-spacing:1px}
+
+.n_custom_heading .background_title{font-size:43px;position:static;transform:none;font-weight:700;color:#E7E7E7;opacity:1;font-family:'MrsEavesLiningOT'!important;margin-top:0}
+
+.blue_btn .btn-default:not(.btn-link){background:#002E5B;font-size:13px;color:#fff!important;border:none}
+
+.n_room .rooms_list_item.dark_section{background:#002d5d}
+
+.slider_wrapper .caption .inner .t1,.slider_wrapper .caption .inner .t2,.head_panel .hgroup.large_hgroup_styling h1.title{text-transform:uppercase;font-size:45px;font-weight:400;letter-spacing:0}
+
+.head_panel .hgroup p.pretitle{font-weight:700;font-size:20px}
+
+.header nav.primary_nav ul li a{font-size:13px;font-weight:600;margin:0 20px;backface-visibility:visible;-webkit-backface-visibility:visible;-moz-backface-visibility:visible;-webkit-transform:none;-moz-transform:none;-ms-transform:none;transform:none}
+
+.header nav.primary_nav ul li a:before{background:#fff}
+
+.n_book_now{margin-left:20px}
+
+.head_panel .hgroup.large_hgroup_styling h1.title{font-size:65px}
+
+.head_panel .hgroup p.pretitle{font-weight:700;font-size:19px;letter-spacing:0}
+
+.hoverbox .hoverbox_title h2{font-size:34px;font-weight:400;text-transform:uppercase}
+
+.head_panel .hgroup.large_hgroup_styling h1.title,.home_hover_box .hoverbox_paragraph p,.head_panel .hgroup h1.title,.head_panel .hgroup h1.title + p.subtitle,.head_panel .hgroup p.pretitle,.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content p.subtitle,.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content a.btn,.black_section .textify_links a{color:#fff!important}
+
+.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content a.btn:hover,.black_section .no_hotel_bottom .textify_links a:hover,.footer .no_hotel_bottom .textify_links a:link:hover{color:#847552}
+
+.footer_bar{padding:30px 16px}
+
+.footer .pl_about_us_widget p a:hover i{background-color:#002E5B;color:#fff}
+
+.footer .pl_about_us_widget .contact_detail span a:hover{color:#847552!important}
+
+.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content p{font-size:18px;color:#fff}
+
+.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content a.btn{font-size:11px!important}
+
+.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content p.subtitle{font-size:11px}
+
+.rooms_list_item_content .room_listed_amenities{padding:0 0 10px;display:none}
+
+.bottom_banner p{color:#c2c2c2}
+
+.heading_group_sc.subtitle_bottom.black_head h2{color:#323232!important}
+
+.white_title h2{color:#fff}
+
+.footer .pl_about_us_widget p.contact_detail i,.footer .pl_about_us_widget p.contact_detail em{color:#002E5B;border-color:#002E5B}
+
+.contact_detail .fa,.contact_detail span,.contact_detail span a{color:#002E5B!important}
+
+.footer .textify_links a:hover,.footer.textify_links a:hover,.footer .textify_links a:active,.footer.textify_links a:active{text-decoration:underline}
+
+.footer .pl_about_us_widget p a:hover i{color:#fff!important}
+
+.contact-us-page .wpcf7 label .wpcf7-not-valid-tip{text-transform:normal;font-size:11px}
+
+.footer span.wpcf7-not-valid-tip,.popup_section span.wpcf7-not-valid-tip{position:absolute;top:0;left:0;text-align:left}
+
+span.wpcf7-form-control-wrap.email{display:block}
+
+.n_footer .wpcf7 input[type="email"]{padding:15px}
+
+.contact-page-sec span.wpcf7-form-control-wrap{display:block;margin-bottom:20px}
+
+.contact-page-sec span.wpcf7-not-valid-tip{position:absolute;z-index:3;width:100%;bottom:-20px;margin:0;left:0}
+
+.popup_section .wpcf7 input[type="submit"],.popup_section .wpcf7 input[type="email"]{padding:15px;line-height:18px}
+
+.room_single_amenities ul{margin:0;padding:0}
+
+.room_single_amenities ul li{list-style:none;position:relative;padding-left:24px;line-height:18px;margin-bottom:14px}
+
+.room_single_amenities ul li:after,.page-id-1454 .page-list li:after{content:"\f058";font-family:FontAwesome;padding-right:15px;color:#847552;position:absolute;left:0;top:0}
+
+.room_single_amenities ul li .amenities{display:none}
+
+.room_single_amenities_wrapper{padding:0}
+
+body.page-id-1188 .footer_widgets{background:#fff}
+
+body.page-id-1188 .gal-container > div{display:none}
+
+body.page-id-1188 .vc_off .content_main{padding:0}
+
+.contact-map .wpgmza_map h2,.wpgmza_map h2{font-size:22px}
+
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none){.popup_section .wpcf7 input[type="submit"]{padding:14px 15px}
+
+.wpcf7 input[type="submit"]{padding:13px 35px}
+
+.popup_section .wpcf7 input[type="submit"],.popup_section .wpcf7 input[type="email"],.n_footer .wpcf7 input[type='email'],.n_footer .wpcf7 input[type='submit']{height:50px}
+
+}
+
+.popup_section .wpcf7 .wpcf7-not-valid-tip,.popup_section .wpcf7-response-output{text-transform:initial;font-size:14px}
+
+.wpcf7 input[type="submit"]{padding:18px 23px;line-height:18px;background:#003A72;color:#fff!important}
+
+.n_footer .wpcf7 input[type='submit']{width:100%}
+
+.wpcf7 input[type="submit"]:before{background:#847552}
+
+.footer_top div.wpcf7-response-output{max-width:450px;margin:15px auto 0}
+
+.wpcf7 h4{color:#002e5b;text-transform:none;font-size:16px}
+
+.footer_top .wpcf7 h4{margin-bottom:25px}
+
+.n_footer .wpcf7 .btn-primary.btn-inv:hover,.n_footer .wpcf7 .btn-primary.btn-inv:focus,.n_footer .wpcf7 .btn-primary.btn-inv:active:hover,.wpcf7 input[type="submit"]:hover{color:#fff!important;background:#847552}
+
+.secondary_nav_widgetized_area .pl_about_us_widget p.contact_detail,.secondary_nav_widgetized_area .contact_detail .fa,.secondary_nav_widgetized_area .contact_detail span,.secondary_nav_widgetized_area .contact_detail span a{color:#fff!important}
+
+img:focus .logo:focus,.logo a:focus,a:focus,li:focus{outline:5px auto -webkit-focus-ring-color}
+
+.footer .textify_links a:focus{text-decoration:underline}
+
+#slider_home_room{display:none}
+
+#loader_be{background:url(.assets/images/loader.gif) center center no-repeat;height:90px;background-size:30px;text-align:center}
+
+.black_section.transparent_film:before{background:linear-gradient(rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.2) 50%,rgba(0,0,0,0.1) 100%)!important}
+
+.no_style h3{text-transform:normal}
+
+.rooms_list_classic_horizontal_wrapper .rooms_list_item{float:left;width:100%}
+
+#overlay{display:block;position:fixed;width:100%;height:100%;z-index:1199999;left:0;top:0;background:rgba(0,0,0,0.6)}
+
+.popup_section{position:absolute;max-width:520px;width:90%;height:auto;left:50%;top:50%;text-align:center;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);z-index:1100000;background:#fff;padding:2%;color:#444;box-sizing:border-box;transition:all .3s ease 0}
+
+.popup_section .wpcf7-form h4{display:none}
+
+.popup_section h4{margin:0 0 25px;font-size:16px}
+
+#pop_close_se{background:#847552;border-radius:100%;color:#fff;height:30px;position:absolute;right:-8px;text-align:center;text-decoration:none;font-size:16px;font-weight:400;top:-16px;width:30px}
+
+#pop_close_se i,#pop_close_se em{position:relative;top:3px}
+
+.pop_title{font-size:45px;font-weight:600;line-height:52px;padding:20px 29px}
+
+.call_action a{display:block;padding:16px 0;text-align:center;background:#cb7953;border-radius:4px;color:#fff;text-decoration:none}
+
+.call_action a:hover,#pop_close_se:hover{background:#003A72;transition:all .3s ease-in-out}
+
+.call_action{padding:18px 0 0}
+
+.register_now{font-size:20px}
+
+.popup_section p{font-size:14px;text-transform:none;margin:15px 0}
+
+#overlay.close_popup{display:none}
+
+.error404 .svg_divider{display:none}
+
+body.error404{background:#fff}
+
+body.home .form-group input,#sidebar .form-group input{background-color:#fff; color: #0b2433;}
+
+.btn-default:not(.btn-link):hover,.btn-default:not(.btn-link):focus,.btn-default:not(.btn-link):active{background:#847552}
+
+.btn-default:not(.btn-link):before{content:"";position:absolute;z-index:-1;top:0;left:0;right:0;bottom:0;background:#847552;-webkit-transform:scaleY(0);transform:scaleY(0);-webkit-transform-origin:50% 100%;transform-origin:50% 100%;-webkit-transition-property:transform;transition-property:transform;-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-timing-function:ease-out;transition-timing-function:ease-out}
+
+.btn-default:not(.btn-link){background-image:none;background-color:transparent;font-weight:400;text-align:center;text-transform:uppercase;padding:8px 24px;font-size:13px;line-height:1.5;border-radius:0;border:1px #929292 solid;color:#929292!important;display:inline-block;vertical-align:middle;-webkit-transform:translateZ(0);transform:translateZ(0);box-shadow:0 0 1px rgba(0,0,0,0);-webkit-backface-visibility:hidden;backface-visibility:hidden;-moz-osx-font-smoothing:grayscale;position:relative;-webkit-transition-property:color;transition-property:color;-webkit-transition-duration:.3s;transition-duration:.3s}
+
+.header_tools{font-family:"MrsEavesLiningOT";font-size:13px;text-transform:uppercase;text-decoration:none;line-height:1em;font-weight:600;display:inline-block}
+
+.header_tools .btn{font-weight:600!important;letter-spacing:1px}
+
+.rooms_list_classic_horizontal_wrapper .rooms_list_item .rooms_list_item_content p{font-size:18px}
+
+.rooms_list_classic_horizontal_wrapper .rooms_list_item .rooms_list_item_content p.subtitle{font-size:15px;text-transform:uppercase}
+
+.rooms_slider_classic_wrapper .rooms_list_item .rooms_list_item_content h3{text-transform:uppercase}
+
+.vc_on .content_main #sidebar{padding-top:0;padding-bottom:0}
+
+.black{color:#323232!important;font-size:27px;font-family:"Conv_Mrs-Eaves-OT-Roman_31443"!important;letter-spacing:1px}
+
+.large-font{font-size:22px}
+
+.call_to_booking_sc{position:relative;top:1px}
+
+.slider_wrapper .caption { width: 70% !important;left: 15% !important;     }
+
+.slider_wrapper .caption .t1, .slider_wrapper .caption .t2 { font-weight: 600 !important; opacity: 0.8;  }
+
+@media screen and (max-width:767px){.pop_title{font-size:29px;font-weight:600;line-height:35px;padding:14px 0}
+
+#pop_close_se{top:-7px}
+
+.register_now{font-size:15px}
+
+.position-fixed{top:-230px!important}
+
+.position-fixed h2{font-size:20px!important}
+
+}
+
+@media screen and (max-width:1850px){.header nav.primary_nav ul li a{margin:0 13px}
+
+.header.nav_centered .main_nav_wrapper{left:40%}
+
+}
+
+@media screen and (max-width:1600px){.head_panel .hgroup p.pretitle{font-size:12px}
+
+.head_panel .hgroup.large_hgroup_styling h1.title{font-size:32px}
+
+}
+
+@media screen and (max-width:1450px){.slider_wrapper .caption .inner .t2{font-size:22px}
+
+.slider_wrapper .caption .inner .t1{font-size:30px}
+
+ul.footerbar_menu li a,.col-sm-3.copy_section{font-size:11px}
+
+.nav_mini_tool_container .btn-secondary{padding:8px}
+
+.n_book_now{margin-left:10px}
+
+}
+
+@media screen and (max-width:1100px){.col-sm-3.copy_section,.col-sm-9.f_menu_section{width:100%;text-align:center}
+
+.footer_bar .container-fluid:before,.footer_bar .row:before{content:none}
+
+.footer_bar .container-fluid:after,.footer_bar .row:after{content:none}
+
+.footer_bar .row{display:block}
+
+.footer_bar{float:left;width:100%}
+
+.col-sm-3.copy_section{margin-bottom:10px}
+
+span.wpcf7-not-valid-tip{font-size:13px}
+
+.contact-map .wpgmza_map h2,.wpgmza_map h2{font-size:14px}
+
+.contact-map p,.gm-style-iw p{font-size:13px}
+
+	.main_financial li:nth-child(4n+1) {
+
+    clear: left;
+
+}
+
+}
+
+@media screen and (max-width:767px){.pl_about_us_widget.horizontal p.contact_detail i,.pl_about_us_widget.horizontal p.social i,.pl_about_us_widget.horizontal p.contact_detail em,.pl_about_us_widget.horizontal p.social em{width:28px!important;height:28px!important;font-size:13px!important;line-height:28px!important}
+
+div.pp_default .pp_description{margin-top:9px!important}
+
+#reservation_search .row p br{display:none}
+.header .logo {font-size: 0}
+}
+
+@media screen and (max-width:580px){#news_pop{display:none}
+
+.col-sm-9.f_menu_section ul li{margin-bottom:15px}
+
+.footer_top .contact_detail{float:left;text-align:left}
+
+h1,.h1{font-size:26px}
+
+.hoverbox .hoverbox_title h2{font-size:24px}
+
+}
+
+@media screen and (max-width:480px){
+	.slider_wrapper .caption .inner .t2,.slider_wrapper .caption .inner .t1{font-size:12px}
+	.logo a.brand img{max-height:22px}
+	.head_panel .hgroup.large_hgroup_styling h1.title{font-size:21px}
+	.contact-map .wpgmza_map h2,.wpgmza_map h2{font-size:12px}
+	.black{color:#323232!important;font-size:18px;font-family:"Conv_Mrs-Eaves-OT-Roman_31443"!important;letter-spacing:1px}
+	.main_financial li {display: inline-block;float: none !important;margin-right: 0 !important;width: 100% !important;}
+	.main_financial ul {text-align: center;}
+}
+
+.small-head h3{font-size:40px}
+a.menu-toggler.active{transform:translate(0,0);background:#847552}
+.aboutus-widget .contact_detail a:hover,.social-icons li a:hover{color:#a58539!important}
+#gallery_sec a ~ div{display:none!important}
+.header.transparent.sticky,.secondary_nav_widgetized_area{background-color:#002d5d!important}
+.rooms_list_classic_horizontal_wrapper .rooms_list_item .rooms_list_item_content h3{text-transform:uppercase}
+.large-font{font-size:22px}
+.call_to_booking_sc{position:relative;top:1px}
+.no-spacing .vc_column-inner{padding:0!important}
+.no-spacing .wpb_gmaps_widget{margin-top:0!important;margin-bottom:0!important}
+.wpcf7-form textarea{height:120px}
+.wpcf7-captchac{margin-top:11px}
+.form-control,select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"]{margin-bottom:5PX}
+.frm-contact-container .wpcf7-form-control.wpcf7-submit{padding-top:8px;padding-bottom:8px;margin-top:5px}
+.excerpt.min-height{min-height:81px;width:90%}
+.contact-map #wpgmza_map_1{height:550px!important}
+.blog_post_single_content .vc_custom_1530795142358{/*background:url(/wp-content/uploads/2018/08/booking-bg.jpg) top center no-repeat!important;background-size:cover!important;*/background-color: #0a2434 !important}
+.blog_post_single_content .vc_custom_1530795142358 .ir-ext-dimensions{display: none;}
+
+.wpb_content_element .btn-primary{background-color:#847554!important;color:#fff!important;font-size:16px!important;font-family:"MrsEavesLiningOT"!important}
+.welcome-heading h1{letter-spacing:1px}
+.contact-map .locations{display:none}
+.copy_section b,.copy_section strong{letter-spacing:1px}
+.room-page .content_titles{background:#002d5d!important;padding:8px 0!important}
+.room-page .lead{color:#fff;font-family:"MrEavesModOT-Reg"!important;font-size:18px;margin-bottom:0;text-align:center;letter-spacing:1px}
+.margin-top-none{margin-top:0!important}
+.social-icons{float:left;margin:0 0 0 5px;padding:0;text-align:center;width:100%;position:relative;bottom:10px}
+.social-icons > li{color:#fff;float:left;list-style:outside none none;padding:0 7px}
+.social-icons a{color:#fff}
+.position-fixed{background:rgba(0,0,0,0) none repeat scroll 0 0!important;color:#fff;padding:0!important;position:absolute!important;top:-450px;width:100%}
+.position-fixed h2{color:#fff;font-size:45px;margin:0 0 5px;text-transform:uppercase}
+.position-fixed .btn.btn-default{border-color:#fff;color:#fff!important}
+.position-fixed .btn.btn-default:hover{color:#fff!important;border-color:#847552!important}
+.position-fixed .btn-default:not(.btn-link)::before{background:#847552;border-color:#847552!important}
+.small-head h3{font-size:44px}
+.room_single_amenities_wrapper .room_single_amenities span{display:block}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait){
+	.position-fixed{top:-320px!important}
+	.position-fixed h2{font-size:35px!important}
+}
+
+.page-id-1454 .page-list{margin:0;padding:0}
+.page-id-1454 .page-list li{list-style:none;position:relative;padding-left:24px}
+.page-id-1454 .page-list li a{text-transform:capitalize}
+.header.transparent{position:fixed}
+
+@media screen and (max-width:1030px){
+	.header.transparent.secondary_nav_is_open .toggler_and_tools .header_tools{display:none}
+	.small-head h3{font-size:32px}
+
+}
+
+@media screen and (max-width:580px){.small-head h3{font-size:22px}
+
+}
+
+#ui-datepicker-div{max-width:320px!important;width:100%}
+.ui-widget-header{background:transparent!important;color:#000!important;font-weight:400!important}
+.call_to_booking_sc .form-group p{color:#fff!important;color:#fff!important;margin:0 0 7px}
+/*#reservation_search #searchsubmit_widget{margin-top:10px}*/ .ui-datepicker-next,.ui-datepicker-prev{background-color:transparent!important}
+.ui-state-focus,.ui-state-hover,.ui-widget-content .ui-state-focus,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-focus,.ui-widget-header .ui-state-hover{background-color:#002d5d!important;color:#fff!important}
+div.wpcf7-mail-sent-ok{background-color:#847552}
+#return-to-top em{color:#fff;margin:0;position:relative;left:16px;top:8px;font-size:19px;transition:all .3s ease}
+em.fa{font-style:normal}
+.pl_about_us_widget.horizontal p.contact_detail em,.pl_about_us_widget.horizontal p.social em{border:solid 1px;border-color:#fff;border-radius:50%;font-size:16px;margin-right:10px;text-align:center;width:48px;height:48px;line-height:47px}
+.footer .pl_about_us_widget p.contact_detail i,.footer .pl_about_us_widget p.contact_detail em{border-color:#002E5B!important}
+.footer_top label[for="email"],.popup_section label[for="topemail"]{display:none}
+.heading_group_sc h3{font-size:40px!important}
+.career-page h4{font-size:26px;color:#323232;text-transform:uppercase}
+.roombooking-widget .pl_room_booking_widget {background-color: #0a2434 !important; background-image: none !important; }
+.main_financial ul {list-style: outside none none; margin: 0; padding: 0; }
+.main_financial li {float: left; margin-right: 15px; width: 22%; }
+.page-id-1682 .content_titles .transparent_film {height: 100%; max-height: 290px; position: absolute; top: 0; width: 100%; }
+.fin_cont h3 {margin-bottom: 0; margin-top: 10px; }
+.page-id-1682 .content_titles .title_in_content h1 {bottom: 60px; color: #fff; font-size: 81px; margin: 0; position: absolute; }
+.page-id-1682 .content_titles{ position: relative;}
+.footer_top .mc4wp-checkbox.mc4wp-checkbox-contact-form-7 {display: none; }
+.page-id-1272 .text-center .btn-default {background: #001a49; color: #fff !important; font-size: 17px; letter-spacing: 3px; padding: 19px 32px; }
+.header nav.primary_nav { visibility: visible !important; }
+.logo a.brand img { max-height: inherit !important; }
+.footer_top .pl_about_us_widget img { max-width: inherit !important; }
+.logo {width: 248px; line-height: 1; font-size: 12px; margin: 36px 0 0; padding-bottom: 12px; }
+.logo a.brand {margin: -24px 0 0; padding-right: 9px; float: left; }
+.main_financial li:nth-child(4n+1) {clear: left; }
+#wpcf7-f1566-p1561-o2 .btn-primary {padding: 11px 25px;}
+.footer_top div.wpcf7-response-output{color: #f00;}
+.footer_top #text-3 div.wpcf7-response-output{color: #fff;}
+div.wpcf7-mail-sent-ng{background-color: #ff0000;color: #ffffff;font-size: 16px;font-weight: normal;border: none;}
+
+@media(max-width:1500px) { 
+ .logo {margin: inherit; width: auto; padding: 12px 0; } 
+ .logo a.brand {margin: inherit;   padding-right: 0; padding-bottom: 5px;  float: none; }
+}
